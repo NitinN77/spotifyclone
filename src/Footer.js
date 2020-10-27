@@ -16,7 +16,11 @@ function Footer() {
   return (
     <div className="footer">
       <div className="footer_left">
-        <p>Album and song</p>
+        <img className="footer_albumlogo" src="https://studybreaks.com/wp-content/uploads/2018/04/dog-whistles.jpg" alt="" />
+        <div className="footer_songinfo">
+            <h4>Yeah</h4>
+            <p>boio</p>
+        </div>
       </div>
       <div className="footer_center">
         <ShuffleIcon className="footer_green" />
