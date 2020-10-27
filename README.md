@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Spotify Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![img](https://github.com/VoidlessVoid7/spotifyclone/blob/master/public/readme.png?raw=true)
 
 ## Available Scripts
 
